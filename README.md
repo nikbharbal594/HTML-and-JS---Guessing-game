@@ -1,1 +1,2 @@
-# HTML-and-JS---Guessing-game
+Basic JavaScript code based on loops and decision making has been used to create a color guessing game. The user is given a finite set of colors to choose from and has to pick one of those colors (by entering its name when prompted) at random. Then, based on the clues given by the onscreen prompts, he has to keep picking a color till he picks the color originally chosen by the system. At this point, the user wins the game and the chosen color is displayed in the background.
+After each incorrect guess, the user is informed whether the color picked by him is lexicographically lower or higher than the one chosen by the system, based on which he can make further selections.
